@@ -66,4 +66,6 @@
 
         </ul>
     </div>
+
+    <p class="text-bold">Ideia originalmente criada por: Luís Felipe Dobner Henriques</p>
 </div>
