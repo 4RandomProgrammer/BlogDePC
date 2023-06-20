@@ -67,5 +67,5 @@
         </ul>
     </div>
 
-    <p class="text-bold">Ideia originalmente criada por: Luís Felipe Dobner Henriques</p>
+    <p class="font-bold">Ideia originalmente criada por: Luís Felipe Dobner Henriques</p>
 </div>
