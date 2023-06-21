@@ -1,0 +1,1 @@
+<a href="/" class="p-2 text-white hover:text-black rounded-xl bg-violet-700 hover:bg-violet-950 transition-all"><button class="text-xl">Voltar</button></a>

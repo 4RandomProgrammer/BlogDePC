@@ -24,7 +24,7 @@
 
 
         columns = (canva.getBoundingClientRect().width)/fontsize;
-        console.log(canva.getBoundingClientRect().width)
+        
         
         
         for (let index = 0; index < columns; index++) {

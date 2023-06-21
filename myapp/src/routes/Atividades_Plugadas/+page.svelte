@@ -1,5 +1,6 @@
 <script>
     import Header from "../../lib/components/Header.svelte";
+    import Button from "../../lib/components/Button.svelte";
 
 </script>
 <Header text={"Atividades Plugadas"}></Header>
@@ -12,12 +13,12 @@
         </h2>
 
         <p>
-            Pensamento Computacional (PC) diz respeito a um conjunto de habilidades que permitem resolver problemas da melhor forma, sendo estas necessarias em todas as áreas do conhecimento e não somente nas areas relacionadas a Computação.[1] Constituem as Habilidades de Pensamento Computacional: A Abstração, Raciocínio Lógico, Algoritmos, Decomposição e Generealização, Reconhecimento de Padrões, paralelismo e Manipulção de Dados. Com o intuito de desenvolver essas habilidades, pesquisadores e educadores de todo o mundo tem utilizado recursoso como atividades desplugadas e plugadas. 
+            Pensamento Computacional (PC) diz respeito a um conjunto de habilidades que permitem resolver problemas da melhor forma, sendo estas necessarias em todas as áreas do conhecimento e não somente nas areas relacionadas a Computação.<a class="text-orange-700" href="#id1">¹</a> Constituem as Habilidades de Pensamento Computacional: A Abstração, Raciocínio Lógico, Algoritmos, Decomposição e Generealização, Reconhecimento de Padrões, paralelismo e Manipulação de Dados. Com o intuito de desenvolver essas habilidades, pesquisadores e educadores de todo o mundo tem utilizado recursoso como atividades desplugadas e plugadas. 
             <br><br>
             Quando falamos em Atividade Plugada estamos dizendo que iremos programar um computador, como desenvolver um game digital por exemplo ou até mesmo programar um robo para realizar tarefas simples, utilizando dispositivos eletrônicos para isso. Estes dispositivos podem ser dos mais diversos como computadores, smartphones, tablets, etc.
             Já nas atividades desplugadas iremos somente representar a programação de um computador sem o uso de dispositivos eletrônicos. Nesse caso, usaremos lousa, papelão, papel, lápis, caneta e outros materiais para criar as representações de códigos de programação sem o uso direto do computador, smartphone, tablet, etc.
             <br><br>
-            No quiz de hoje, focaremos nas atividades plugadas que tem como seu maior expoente na utilização de ferramentas como o Scratch[2] e o Code.org[3]. Porém durante a pesquisa focamos muito em encottrar projetos que não utilizassem essas tecnologias.
+            No quiz de hoje, focaremos nas atividades plugadas que tem como seu maior expoente na utilização de ferramentas como o Scratch<a class="text-orange-700" href="#id2">²</a> e o Code.org<a class="text-orange-700" href="#id3">³</a>. Porém durante a pesquisa focamos muito em encontrar projetos que não utilizassem essas tecnologias.
 
         </p>
     </div>
@@ -42,30 +43,32 @@
         <h3 class="text-xl font-bold mb-4">Resposta:</h3>
         <ul class="px-6 list-[lower-latin] space-y-4">
             <li>
-                <span class="text-red-600 uppercase font-bold">incorreta</span>, o jogo descrito é de cunhos educional e pedagógico tratando de reclicagem.  Porém ele não trata e nem estimula de nenhuma das habilidades de Pensamento computacional. O jogo tratado na descrição pode ser acessado no seguinte <a class="text-blue-700"     href="https://andersongarrote.itch.io/garibot">link</a>. Como curiosidade, o projeto desenvolvido pela professora Sahudy.</li>
+                <span class="text-red-600 uppercase font-bold">incorreta</span>, o jogo descrito é de cunhos educional e pedagógico tratando de reclicagem.  Porém ele não trata e nem estimula de nenhuma das habilidades de Pensamento computacional. O jogo tratado na descrição pode ser acessado no seguinte <a class="text-orange-700"  href="https://andersongarrote.itch.io/garibot">link</a>. Como curiosidade, o projeto desenvolvido pela professora Sahudy.</li>
             <li>
-                <span class="text-red-600 uppercase font-bold">incorreta</span>, a atividade descrita se trabalha as competências do pensamento computacional, entretanto é desplugada. Referência a ela e mais detalhes pode ser encontrada nesse <a class="text-blue-700" href="http://www.csunplugged.org/en/topics/sorting-networks/reinforcing-numeracy-through-a-sorting-network-junior/">link</a></li>
+                <span class="text-red-600 uppercase font-bold">incorreta</span>, a atividade descrita se trabalha as competências do pensamento computacional, entretanto é desplugada. Referência a ela e mais detalhes pode ser encontrada nesse <a class="text-orange-700" href="http://www.csunplugged.org/en/topics/sorting-networks/reinforcing-numeracy-through-a-sorting-network-junior/">link</a></li>
             <li>
-                <span class="text-green-500 uppercase font-bold">incorreta</span>, o jogo descrito tem nome de Looking for pets.  
-                O intuito do jogo é de forma simples lúdicas ensinar as crianças a criação de soluções algoritmicas para as fases, a habilidade de decomposição quebrando partes dos problemas da fases para realiza-las melhor e treinar outras habilidades do pensamentos computacional. Por fim, artigo sobre a sua criação e sobre a relação dele com Pensamento Computacional pode ser encontrada no seguinte <a class="text-blue-700" href="https://www.sbgames.org/sbgames2019/files/papers/EducacaoFull/198391.pdf">link</a>.</li>
+                <span class="text-green-500 uppercase font-bold">correta</span>, o jogo descrito tem nome de Looking for pets.  
+                O intuito do jogo é de forma simples lúdicas ensinar as crianças a criação de soluções algoritmicas para as fases, a habilidade de decomposição quebrando partes dos problemas da fases para realiza-las melhor e treinar outras habilidades do pensamentos computacional. Por fim, artigo sobre a sua criação e sobre a relação dele com Pensamento Computacional pode ser encontrada no seguinte <a class="text-orange-700" href="https://www.sbgames.org/sbgames2019/files/papers/EducacaoFull/198391.pdf">link</a>.</li>
             <li>
-                <span class="text-red-600 uppercase font-bold">incorreta</span>, pois trata de um simples jogos de Quebra Cabeça, em que apesar de tratar de conceitos que circundam as atividades plugadas como estimular habilidades e resoluções de problemas, desenvolvimento de um raciocínio lógico e até a noção de decomposição. Essa ativiade por si só não promove desenvolvimento das competências relacionadas a Pensamento Computacional, ela objetiva educação e desenvolvimento como um todo. <a class="text-blue-700" href="https://www.escolagames.com.br/jogos/quebraCabeca/">Referência</a>  
+                <span class="text-red-600 uppercase font-bold">incorreta</span>, pois trata de um simples jogos de Quebra Cabeça, em que apesar de tratar de conceitos que circundam as atividades plugadas como estimular habilidades e resoluções de problemas, desenvolvimento de um raciocínio lógico e até a noção de decomposição. Essa ativiade por si só não promove desenvolvimento das competências relacionadas a Pensamento Computacional, ela objetiva educação e desenvolvimento como um todo. <a class="text-orange-700" href="https://www.escolagames.com.br/jogos/quebraCabeca/">Referência</a>  
             </li>
             <li>
-                <span class="text-red-600 uppercase font-bold">incorreta</span>, trata-se de uma atividade de Excursão online e não trabalha com conceito de PC. Portanto, não classificada como atividade plugada, apesar de ter fim educacional. A referência para a atividade pode ser encontrada no seguinte <a class="text-blue-700" href="https://www.passatempoeducativo.org.br/reforco/reforco/?gclid=Cj0KCQjwnMWkBhDLARIsAHBOftqP276pyhZS16IRoTyt66GYdDHrqH10VTcT3MbrAu_pirQgSHZ451caAotSEALw_wcB">site</a> 
+                <span class="text-red-600 uppercase font-bold">incorreta</span>, trata-se de uma atividade de Excursão online e não trabalha com conceito de PC. Portanto, não classificada como atividade plugada, apesar de ter fim educacional. A referência para a atividade pode ser encontrada no seguinte <a class="text-orange-700" href="https://www.passatempoeducativo.org.br/reforco/reforco/?gclid=Cj0KCQjwnMWkBhDLARIsAHBOftqP276pyhZS16IRoTyt66GYdDHrqH10VTcT3MbrAu_pirQgSHZ451caAotSEALw_wcB">site</a> 
             </li>
         </ul>
     </div>
+    
     <!--Referencias -->
     <div>
         <p>Referências: </p>
         <ul class="list-decimal px-8">
-            <li><a  class="text-orange-700" href="https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf">https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf</a></li> 
-            <li><a  class="text-blue-700" href="https://scratch.mit.edu/">https://scratch.mit.edu/</a></li>
-            <li><a  class="text-blue-700" href="https://code.org/">https://code.org/</a></li>
+            <li><a  id="id1" class="text-orange-700" href="https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf">https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf</a></li> 
+            <li><a id="id2" class="text-orange-700" href="https://scratch.mit.edu/">https://scratch.mit.edu/</a></li>
+            <li><a id="id3" class="text-orange-700" href="https://code.org/">https://code.org/</a></li>
 
         </ul>
     </div>
 
-    <p class="font-bold">Ideia originalmente criada por: Luís Felipe Dobner Henriques</p>
+    <p class="font-bold mb-4">Ideia originalmente criada por: Luís Felipe Dobner Henriques</p>
+    <Button/>
 </div>
