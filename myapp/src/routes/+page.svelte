@@ -15,6 +15,9 @@
         <p class="text-xl font-mono">Veja os quizzes feitos até o momento</p>
         <img src="/images/maluquices.gif" alt="" >
     </div> 
-
-    <a class="text-purple-700 text-4xl font-bold hover:text-6xl hover:text-purple-900 transition-all" href="/Atividades_Plugadas">Atividades Plugadas</a>
+    <div class="flex flex-col items-center justify-center">
+        <a class="text-purple-700 text-4xl font-bold hover:text-6xl hover:text-purple-900 transition-all" href="/Atividades_Plugadas">Atividades Plugadas</a>
+        <a class="text-purple-700 text-4xl font-bold hover:text-6xl hover:text-purple-900 transition-all" href="/Metodologias_de_aprendizado">Metodologia de Aprendizagem</a>
+    </div>
+    
 </div>
